@@ -6,7 +6,7 @@ Currently, I'm working on Natural Language Processing.
 
 My interests range from backend (Linux, C++, Rust) to distributed system.
 
-You can visit [my blog](zinglix.xyz) for more information or contact me via email on the left.
+You can visit [my blog](https://zinglix.xyz) for more information or contact me via email on the left.
 
 <!--
 **ZingLix/ZingLix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
