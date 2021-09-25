@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm **ZingLix**, a student from Shanghai, China. 
-
 <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=zinglix&layout=compact" />
 </a>
+
+I'm **ZingLix**, a student from Shanghai, China. 
 
 - 📖 Interested in full stack, but more on backend (Linux, C++, Rust) and distributed system recently.
 
