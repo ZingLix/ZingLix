@@ -4,15 +4,17 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=zinglix&layout=compact" />
 </a>
 
-I'm **ZingLix**, a student from Shanghai, China. 
+I'm **ZingLix**, a dedicated backend engineer hailing from Shanghai, China.
 
-- 📖 Interested in full stack, but more on backend (Linux, C++, Rust) and distributed system recently.
+- 📖 Passionate about full-stack development, with a focus on backend technologies such as Linux, C++, and Rust. Lately, I've been delving deeper into distributed systems.
 
-- 🔨 Currently working on Natural Language Processing. 
+- 🔨 Currently immersed in the world of Large Language Models, exploring its intricacies and applications.
 
-- 📝 My blog: [zinglix.xyz](https://zinglix.xyz)
+- 📝 Check out my blog at [zinglix.xyz](https://zinglix.xyz) to dive into my insights and explorations.
 
-- 📫 How to reach me: [me@zinglix.xyz](mailto:me@zinglix.xyz)
+- 📫 Reach out to me at [me@zinglix.xyz](mailto:me@zinglix.xyz) to connect or discuss exciting opportunities.
+
+Looking forward to exploring the vast possibilities that the backend landscape offers in enhancing our technological world.
 
 <!--
 **ZingLix/ZingLix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
